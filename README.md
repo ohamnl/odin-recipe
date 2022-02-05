@@ -1,1 +1,1 @@
-this is my first project on my journey to become a web developer.
+this is my first project on my journey to become a web developer. on this project i will be working on understaing how git works, by implementing the techonlogy throughout this projecet. i will also be working on a simple HTML page, which mostly usese ordered list, unordered lists and other basic elements.
