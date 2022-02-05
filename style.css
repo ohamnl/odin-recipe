@@ -1,0 +1,29 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 90px;
+    font-weight: 900;
+    text-align: center;
+    text-shadow: 0 0 4px blue;
+    box-shadow: 0 0 4px blue;
+}
+ul {
+    display: block;
+    background-color: cadetblue;
+    list-style: none;
+    box-shadow: 5px 5px 6px black;
+}
+
+a {
+    font-size: 70px;
+    text-decoration: none;
+    }
+a:hover {
+    color: aqua;
+
+
+}
